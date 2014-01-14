@@ -1,8 +1,8 @@
 opensun
 =======
 
-<img src="http://i.imgur.com/Et7Kkfx.png">
-opensun, an opensource jailbreak for developer & hacker.<br>
-But not for script kiddied.<br>
+<p><img src="http://i.imgur.com/Et7Kkfx.png"></p>
+<p>opensun, an opensource jailbreak for developer & hacker.</p>>
+<p>But not for script kiddied.</p>
 
-<a href="https://twitter.com/3x7R00Tripper">@3x7R00Tripper</a> - <a href="http://3x7R00Tripper.com">3x7R00Tripper.com</a>
+<p>Follow me on twitter <a href="https://twitter.com/3x7R00Tripper">@3x7R00Tripper</a> - Check out my website <a href="http://3x7R00Tripper.com">3x7R00Tripper.com</a></p>
